@@ -1,1 +1,2 @@
 this is feature 1 developped by dev 2
+some new feature added by dev 3 from github
